@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React-Native, Assemmbly.<br>💬 Ask me about anything you want.<br>⚡ Fun fact i'm nub
+🌱 I’m currently learning React-Native, Assemmbly.<br>💬 Ask me about anything you want.<br>
 
 
 # 💻 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂:
