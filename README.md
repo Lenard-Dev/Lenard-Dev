@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React-Native, TypeScript.<br>💬 Ask me about anything you want.<br>
+🌱 I’m currently learning React-Native, TypeScript, AWS, and Google Cloud Platform.<br>💬 Ask me about anything you want.<br>
 
 
 # 💻 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂:
