@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
 
-
+---
 ### My pet:
 <div align="center">
 <picture>
@@ -22,6 +22,7 @@
 </picture>
 </div>
 
+---
 ### ✍️ Random Dev Quote
 <div align="center">
   
