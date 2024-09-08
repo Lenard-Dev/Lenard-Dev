@@ -29,53 +29,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 </div>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3" width="512">Last Followers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">8842</td>
-      <td align="center">
-        <a href="https://github.com/Lenard-Dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140909569?u=db785e8172476677144e7b08f871bc983dfe1b12&v=4" alt="Lenard-Dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Lenard-Dev" target="_blank">Lenard-Dev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8843</td>
-      <td align="center">
-        <a href="https://github.com/Nabeedjamshed" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152648146?u=9e782e50533eecb56373a0f71f2390566b46c25f&v=4" alt="Nabeedjamshed" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nabeedjamshed" target="_blank">Nabeedjamshed</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8844</td>
-      <td align="center">
-        <a href="https://github.com/sch24r" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112493116?u=997cde34a8ee977bd9e81a2b9dcfa9fbc5562cb5&v=4" alt="sch24r" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sch24r" target="_blank">sch24r</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8845</td>
-      <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=3hvArts&icon=2&color=0)](https://visitcount.itsvg.in)
 
