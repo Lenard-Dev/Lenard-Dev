@@ -9,10 +9,10 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
+// <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenard-Dev&show_icons=true&theme=radical)
-</div>
+// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenard-Dev&show_icons=true&theme=radical)
+// </div>
 
 ---
 ### 🐍 My pet:
