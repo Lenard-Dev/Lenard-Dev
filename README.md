@@ -18,7 +18,7 @@
 ### 🐍 My pet:
 <div align="center">
 <a href="https://github.com/Lenard-Dev">
-    <img src="contributions.svg" />
+    <img src="github-user-contribution.svg" />
   </a>
 </div>
 
