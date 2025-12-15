@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning React-Native, TypeScript, AWS, and Google Cloud Platforms.<br>💬 Ask me about anything you want.<br>
-
-
 # 💻 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂:
 <div align="center">
   
